@@ -141,4 +141,4 @@
 - [Chromium OS Nightly Builds](https://chromium.arnoldthebat.co.uk/?dir=.%2Fdaily)
 
 ## !  Important ! 
-Master branch should not contain journal entries beyond this point! Please make a branch to track your progress against a project, repo or branch.
+Master branch should not contain journal entries beyond this point! Please make a branch to track your progress against a project repo or branch.
