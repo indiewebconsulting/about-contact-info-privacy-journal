@@ -5,7 +5,7 @@ Started by Jonathan McQuade in Tacoma, WA as a freelancing moniker, we've begun 
 
 If you'd like to become a member of one of our 10 categorical Agile teams, please email [info@indiewebconsulting.com](mailto:info@indiewebconsulting). Our approval process is human-based, but speedy and secure enough for the pace we'll establish together, in community.
 
-If you would like to evangelize this group's brand and talent, you can do so via Twitter [@indiewebconsult](https://www.twitter.com/indiewebconsult), Facebook [@indiewebconsult](https://www.facebook.com/indiewebconsulting), or Instagram [@indiewebconsult](https://instagram.com/indiewebconsult).
+If you would like to evangelize this group's brand and talent, you can do so via Twitter [@indiewebconsult](https://www.twitter.com/indiewebconsult), Facebook [@indiewebconsulting](https://www.facebook.com/indiewebconsulting), or Instagram [@indiewebconsult](https://instagram.com/indiewebconsult).
 
 If you would like to propose a project and invest in the growth of this small FOSS-centered community, please email [jen@indiewebconsulting.com](mailto:jen@indiewebconsulting.com).
 
