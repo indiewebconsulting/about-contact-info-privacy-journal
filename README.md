@@ -1,3 +1,21 @@
+# About Us: Indie Web Consulting (IWC)
+Indie Web Consulting is an unincorporated, unicorn supported, angel funded group, devoted to freelance FOSS solutions.
+
+Started by Jonathan McQuade in Tacoma, WA as a freelancing moniker, we've begun to grow in available talent. In the spirit of collaboration and Jonathan's migration to full-time development, IWC is now becoming a "void filler" for the shared desires we see growing for small businesses in the Pacific Northwest.
+
+If you'd like to become a member of one of our 10 categorical Agile teams, please email [info@indiewebconsulting.com](mailto:info@indiewebconsulting). Our approval process is human-based, but speedy and secure enough for the pace we'll establish together, in community.
+
+If you would like to evangelize this group's brand and talent, you can do so via Twitter [@indiewebconsult](https:/www.twitter.com/indiewebconsult), Facebook [@indiewebconsult](https://www.facebcook.com/indiewebconsult), or Instagram [@indiewebconsult](https://instagram.com/indiewebconsult).
+
+If you would like to propose a project and invest in the growth of this small FOSS-centered community, please email [jen@indiewebconsulting.com](mailto:jen@indiewebconsulting.com).
+
+# Contact Us: How to reach an administrator of this group
+We're small and most of us have an actual job somewhere other than this group. That includes the admin. But our inbox is always open at [info@indiewebconsulting.com](mailto:info@indiewebconsulting.com)
+
+# Privacy: Adhering strictly to GitHub Privacy policies
+### The Official GitHub "Pie in the Sky, 'Short Version'" 
+We only collect the information you choose to give us, and we process it with your consent, or on another legal basis; we only require the minimum amount of personal information that is necessary to fulfill the purpose of your interaction with us; we don't sell it to third parties; and we only use it as this Privacy Statement describes. If you're visiting us from the European Union (EU), European Economic Area (EEA), Switzerland, or the United Kingdom (UK), please see our global privacy practices: we comply with the EU-US Privacy Shield Framework and we are compliant with the General Data Protection Regulation (GDPR). No matter where you are, where you live, or what your citizenship is, we provide a high standard of privacy protection to all our users around the world, regardless of their country of origin or location.
+
 # Project Journal
 Ideation, Scoping, Engineering, Note Passing, and Thoughtful Ranting
 
