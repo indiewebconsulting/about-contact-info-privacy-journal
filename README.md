@@ -1,4 +1,5 @@
-# journal
+# Project Journal
+Ideation, Scoping, Engineering, Note Passing, and Thoughtful Ranting
 
 ## Binary-heavy drop point for project notes, requirements, links and schematics
 
