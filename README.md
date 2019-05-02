@@ -1,4 +1,7 @@
+![About Us](https://github.com/indiewebconsulting/about-contact-info-privacy-journal/blob/master/F6688361-D2BE-4A2A-9519-27F1ACBC73D5.png)
+
 # About Us: Indie Web Consulting (IWC)
+
 Indie Web Consulting is an unincorporated, unicorn supported, angel funded group, devoted to freelance FOSS solutions.
 
 Started by Jonathan McQuade in Tacoma, WA as a freelancing moniker, we've begun to grow in available talent. In the spirit of collaboration and Jonathan's migration to full-time development, IWC is now becoming a "void filler" for the shared desires we see growing for small businesses in the Pacific Northwest.
